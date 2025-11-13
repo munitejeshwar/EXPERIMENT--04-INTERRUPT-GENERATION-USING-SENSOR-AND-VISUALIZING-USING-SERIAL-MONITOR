@@ -9,7 +9,7 @@
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
 ### Components required:
-STM32 CUBE IDE,  serial port utility monitor,IR Pair Sensor .
+STM32 CUBE IDE,  serial port utility monitor,IR Pair Sensor ..
 
 
 ## Theory :
